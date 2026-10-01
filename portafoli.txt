@@ -1,0 +1,42 @@
+==================================================
+PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUPAMENT
+==================================================
+
+1. SOBRE MI
+-----------
+
+Nom i cognoms: Biel Batalla
+Cicle: CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
+Presentació: Soc estudiant de primer curs de DAM i estic interessat en la tecnologia, la programació i el desenvolupament de videojocs. Tinc coneixements de Python i Java, i m'agrada aprendre noves eines i tecnologies.
+
+
+2. HABILITATS I EINES TÈCNIQUES
+-------------------------------
+
+- Sistemes operatius: Linux (Ubuntu/Debian), Windows
+- Control de versions: Git, GitHub
+- Llenguatges de programació: Python, Java
+- Desenvolupament web: HTML, CSS, PHP
+- Bases de dades: SQL, MySQL
+- Línia de comandes: Bash / Terminal
+- Disseny i edició: Blender i eines d'edició
+- Altres eines: VirtualBox, Nmap, Nginx
+
+
+3. BITÀCOLA DE PROJECTES I PRÀCTIQUES
+--------------------------------------
+
+Pràctica 01: Configuració de l'entorn i repositori Git
+
+- Descripció: Creació del portafoli personal i configuració del control de versions amb Git i GitHub.
+- Què he après: He après a crear un repositori, inicialitzar Git, crear commits i pujar els canvis a GitHub.
+
+Pràctica 02: Programació amb Java
+
+- Descripció: Realització d'exercicis bàsics de programació amb Java.
+- Què he après: He treballat amb variables, operadors, càlculs, condicionals i estructures seqüencials.
+
+Pràctica 03: Bases de dades i SQL
+
+- Descripció: Realització de consultes i exercicis amb bases de dades utilitzant MySQL.
+- Què he après: He après a fer consultes SQL i a treballar amb dades d'una base de dades relacional.
